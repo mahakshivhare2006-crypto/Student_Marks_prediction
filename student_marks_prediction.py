@@ -187,5 +187,3 @@ print("scikit-learn version :", sklearn.__version__)
 
 print("model saved successfully!")
 
-from google.colab import files
-files.download("student_marks_model.pkl")
